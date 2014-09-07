@@ -4,14 +4,6 @@ namespace WebApplication
 {
     public static class Foundation
     {
-        public static Bundle Styles()
-        {
-            return new StyleBundle("~/Content/foundation/css").Include(
-                       "~/Content/foundation/foundation.css",
-                       "~/Content/foundation/foundation.mvc.css",
-                       "~/Content/foundation/app.css");
-        }
-
         public static Bundle Scripts()
         {
             return new ScriptBundle("~/bundles/foundation").Include(

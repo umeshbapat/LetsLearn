@@ -137,6 +137,7 @@
     <Content Include="Content\foundation\foundation.mvc.css" />
     <Content Include="Content\foundation\normalize.css" />
     <Content Include="Global.asax" />
+    <Content Include="sass\foundation\test.html" />
     <Content Include="Scripts\foundation\fastclick.js" />
     <Content Include="Scripts\foundation\foundation.abide.js" />
     <Content Include="Scripts\foundation\foundation.accordion.js" />
@@ -183,6 +184,153 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Readme\Foundation_readme.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\Site.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_xy-center.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_visibility.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_type.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_top-bar.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_tooltips.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_toolbar.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_thumbs.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_tabs.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_tables.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_switches.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_switch.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_sub-nav.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_split-buttons.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_side-nav.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_reveal-new.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_reveal.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_range-slider.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_progress-bars.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_pricing-tables.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_panels.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_pagination.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_orbit.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_offcanvas.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_magellan.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_labels.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_keystrokes.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_joyride.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_inline-lists.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_icon-bar.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_iconbar.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_grid.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_global.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_forms.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_flex-video.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_dropdown-buttons.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_dropdown.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_clearing.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_buttons.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_button-groups.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_breadcrumbs.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_block-grid.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_alert-boxes.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\components\_accordion.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\_settings.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\foundation\_functions.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\_normalize.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\_foundation.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sass\_foundation.mvc.scss" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

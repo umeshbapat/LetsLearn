@@ -19,12 +19,12 @@ namespace WebApplication
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
+            bundles.Add(new StyleBundle("~/Content/css").Include(
+           "~/Content/site.css"));
+
             #region Foundation Bundles
 
-            bundles.Add(Foundation.Styles());
-
             bundles.Add(Foundation.Scripts());
-
             #endregion
         }
     }
